@@ -1,4 +1,5 @@
 # youtube-redux
+Udemy Ethereum and Solidity the complete developers guide.
 # Boilerplate:
 https://github.com/StephenGrider/ReduxSimpleStarter
 
@@ -9,6 +10,3 @@ https://github.com/StephenGrider/ReduxSimpleStarter
 - React
 - YoutubeAPI-Search
 
-# Testing:
-
-- Mocha
